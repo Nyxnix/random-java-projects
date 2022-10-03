@@ -1,5 +1,5 @@
 # Random Java Projects
- random projects ive made while learning java
+ Random projects ive made while learning java. Mainly for me to track what ive done and learned.
  
 # Calculator
 Basic GUI calculator, most code is from Bro Code's tutorial on youtube.
